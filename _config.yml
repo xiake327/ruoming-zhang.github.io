@@ -7,30 +7,27 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "Ruoming Zhang"
+title_separator          : "-"
+name                     : &name "Ruoming Zhang"
+description              : &description "Ph.D. Candidate in Economics, University of Delaware"
+url                      : https://xiake327.github.io        # 你的用户名.github.io
+baseurl                  : ""                                 # 顶级主页留空
+repository               : "xiake327/xiake327.github.io"      # 你的仓库全名
+
+# Site Author (左侧边栏信息)
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "profile.png"                            # 放在 /images/profile.png 或根目录
+  name             : "Ruoming Zhang"
+  pronouns         :                                          # 可留空
+  bio              : "Ph.D. Candidate in Economics, University of Delaware. Research in public policy, development, labor, and the economics of education."
+  location         : "Newark, DE, USA"
+  employer         : "University of Delaware"
+  uri              :                                          # 如果以后有独立主页可填
+  email            : "zhangrm@udel.edu"
 
   # Academic websites
   academia         : # URL
