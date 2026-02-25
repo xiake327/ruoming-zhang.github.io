@@ -1,7 +1,7 @@
 ---
 title: "Premarital Property and Marriage Timing: Evidence from China's 2011 Marriage Law Interpretation"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/2025-premarital-property
 date: 2025-06-01
 venue: 'Under review, Review of Economics of the Household'

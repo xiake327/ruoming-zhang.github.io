@@ -1,7 +1,7 @@
 ---
 title: "Legal Marriage-Age Reform, Early Marriage, & Fertility: Evidence from China's 1981 Legal Marriage-Age Regulation"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/2025-marriage-age-reform
 date: 2025-02-01
 venue: 'Working Paper'

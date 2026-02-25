@@ -1,7 +1,7 @@
 ---
 title: "Building Human Capital in Rural China: Long-Term Effects of Compulsory Education Reform"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/2025-compulsory-education
 date: 2025-03-01
 venue: 'Working Paper'

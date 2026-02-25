@@ -1,7 +1,7 @@
 ---
 title: "Less Paperwork, More Marriages: Registration Frictions and Marriage Outcomes"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/2025-less-paperwork
 date: 2025-05-01
 venue: 'Working Paper'

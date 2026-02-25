@@ -1,7 +1,7 @@
 ---
 title: "When Success Becomes Salient: Local Role Models and Schooling Decisions"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/2025-role-models
 date: 2025-04-01
 venue: 'Under review, Journal of Economic Behavior & Organization'

@@ -1,7 +1,7 @@
 ---
 title: "Measuring Rural–Urban Occupational Disparities with LLM-Generated Scores"
 collection: publications
-category: manuscripts
+category: wip
 permalink: /publication/2025-llm-occupational
 date: 2025-08-01
 venue: 'Work in Progress'

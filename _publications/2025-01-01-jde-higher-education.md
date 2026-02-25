@@ -1,7 +1,7 @@
 ---
 title: "Higher Education Expansion and the Rural–Urban Gap in Secondary Schooling and Labor Outcomes: Evidence from China's 1999 Reform"
 collection: publications
-category: manuscripts
+category: published
 permalink: /publication/2025-jde-higher-education
 date: 2025-01-01
 venue: 'Journal of Development Economics'

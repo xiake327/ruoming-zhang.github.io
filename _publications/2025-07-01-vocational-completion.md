@@ -1,7 +1,7 @@
 ---
 title: "Higher-Education Expansion and Upper-Secondary Choice: Rural–Urban Divergence in Vocational Completion"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/2025-vocational-completion
 date: 2025-07-01
 venue: 'Working Paper'
