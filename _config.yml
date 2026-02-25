@@ -15,11 +15,11 @@ name                     : &name "Ruoming Zhang"
 description              : &description "PhD Candidate in Economics, University of Delaware"
 
 # Your real website URL
-url                      : "https://ruoming-zhang.github.io"
-baseurl                  : ""
+url                      : "https://xiake327.github.io"
+baseurl                  : "/ruoming-zhang.github.io"
 
 # Your repo name
-repository               : "ruoming-zhang/ruoming-zhang.github.io"
+repository               : "xiake327/ruoming-zhang.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
